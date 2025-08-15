@@ -1,0 +1,2 @@
+# about
+About NinMan64!
